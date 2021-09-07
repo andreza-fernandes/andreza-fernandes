@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 
  <div>
   <a href="https://github.com/andreza-fernandes">
-  <img height="150em" src="https://github-readme-stats.vercel.app/api?username=andreza-fernandes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="100%" src="https://github-readme-stats.vercel.app/api?username=andreza-fernandes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
   <img height="100%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreza-fernandes&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
   
