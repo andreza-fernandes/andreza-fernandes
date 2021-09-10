@@ -49,9 +49,7 @@ Here are some ideas to get you started:
      <img align="center" alt="Dre-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg">
     <img align="center" alt="Dre-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/gitlab/gitlab-original.svg">
   </div>
-  
-
-  
+    
   ##
     
  <div>  
