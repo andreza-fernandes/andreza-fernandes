@@ -1,4 +1,4 @@
-### Hi there 👋
+<!--### Hi there 👋
 ## I am Andreza Fernandes! 
 
 
@@ -22,11 +22,30 @@ Here are some ideas to get you started:
 -->
 
 
- <div>
+## Olá, sou a Andreza 👋
+
+Coordenadora de Desenvolvimento com background técnico em C# e .NET.
+Atuo na interseção entre liderança de times e engenharia de software —
+estruturando processos, tomando decisões técnicas e aplicando IA no
+ciclo de desenvolvimento.
+
+Aqui você encontra estudos e experimentos em:
+- ☁️ Azure Functions e arquitetura cloud
+- 🐍 Python e automações
+- ⚙️ .NET moderno e boas práticas de engenharia
+- 🤖 IA aplicada ao desenvolvimento
+
+📍 São Paulo, SP
+🔗 linkedin.com/in/fernandes-andreza
+
+
+ <!--<div>
   <a href="https://github.com/andreza-fernandes">
   <!--<img height="180em" src="https://github-readme-stats.vercel.app/api?username=andreza-fernandes&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>-->
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreza-fernandes&layout=compact&langs_count=10&theme=tokyonight"/>
-</div>
+ <!--<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=andreza-fernandes&layout=compact&langs_count=10&theme=tokyonight"/>
+  </div>—>
+
+  
   
   <div style="display: inline_block"><br>
     <img align="center" alt="Dre-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
@@ -55,5 +74,6 @@ Here are some ideas to get you started:
  <div>  
   <a href="https://www.linkedin.com/in/fernandes-andreza" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
  
-</div>
-  
+</div>-->
+
+
